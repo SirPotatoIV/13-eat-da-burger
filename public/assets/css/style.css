@@ -1,9 +1,9 @@
-html {
+/* html {
     height: 100% !important;
 }
 
 body {
-    background-image: url("../Images/background.jpg");
+    background-image: url("../Images/backgroundburger.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -43,7 +43,7 @@ ul {
     text-align: center;
     padding: 10px;
     color: white;
-    /* border: 5px dashed yellow !important; */
+    /* border: 5px dashed yellow !important; 
 }
 
 #cardHeader {
@@ -52,7 +52,7 @@ ul {
 }
 
 h1 {
-    /* background-image: URL("../Images/burgers.jpg"); */
+    /* background-image: URL("../Images/burgers.jpg"); 
     border: 5px solid orange;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -78,4 +78,4 @@ h2 {
 
 .btn-sm {
     border-radius: 10px !important;
-}
+} 
