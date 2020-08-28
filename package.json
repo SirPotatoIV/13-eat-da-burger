@@ -20,5 +20,8 @@
     "bugs": {
         "url": "https://github.com/Anil1992-rgb/Burger-Log/issues"
     },
-    "homepage": "https://github.com/Anil1992-rgb/Burger-Log#readme"
+    "homepage": "https://github.com/Anil1992-rgb/Burger-Log#readme",
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
 }
