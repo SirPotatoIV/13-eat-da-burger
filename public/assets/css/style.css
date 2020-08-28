@@ -15,7 +15,7 @@ li {
     padding: 5px;
     margin: 5px;
     background: black;
-    font-family: cursive;
+    font-family: 'Kumar One', cursive;
 }
 
 ul {
@@ -43,16 +43,16 @@ ul {
     text-align: center;
     padding: 10px;
     color: white;
-    border: 5px dashed yellow !important;
+    /* border: 5px dashed yellow !important; */
 }
 
 #cardHeader {
     color: white;
-    font-family: monospace;
+    font-family: 'Kumar One', cursive;
 }
 
 h1 {
-    background-image: URL("../Images/burgers.jpg");
+    /* background-image: URL("../Images/burgers.jpg"); */
     border: 5px solid orange;
     background-size: cover !important;
     background-repeat: no-repeat !important;
@@ -63,12 +63,12 @@ h1 {
     max-width: 100%;
     height: 120px !important;
     color: white;
-    font-family: cursive;
+    font-family: 'Kumar One', cursive;
 }
 
 h2 {
     text-align: center;
-    font-family: cursive;
+    font-family: 'Kumar One', cursive;
 }
 
 .listHeaders {
